@@ -1,0 +1,34 @@
+[[main]]
+  identifier = "sobre"
+  name = "sobre"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "posts"
+  name = "posts"
+  url = "posts"
+  weight = 2
+    
+# [[main]]
+#   identifier = "arquivado"
+#   name = "arquivado"
+#   url = "archive"
+#   weight = 2
+
+# [[main]]
+#   identifier = "showcase"
+#   name = "showcase"
+#   url = "showcase"
+#   weight = 3
+    
+# [[main]]
+#   parent = "showcase"
+#   name = "projetos"
+#   url = "showcase/projetos"
+
+# [[main]]
+#   identifier = "notas"
+#   name = "notas"
+#   url = "notas"
+#   weight = 5

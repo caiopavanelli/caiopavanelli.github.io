@@ -1,0 +1,13 @@
+[en]
+  title = "Pavanelli's Blog"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[br]
+  title = "Blog do Pavanelli"
+  languageName = "Português"
+  languagedir = "ltr"
+  contentdir = "content/br"
+  weight = 2
