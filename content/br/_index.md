@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Blog do Pavanelli
     subtitle:
-      - The world’s fastest framework for building websites
+      - Ideias e tecnologia
     titleColor: 
     titleShadow: true
     titleFontSize: 44
