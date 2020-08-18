@@ -1,4 +1,4 @@
-![CI](https://github.com/caiopavanelli/caiopavanelli.github.io/workflows/CI/badge.svg?branch=master)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c083617f-f7f5-40b1-a0ab-8296d70d0104/deploy-status)](https://app.netlify.com/sites/coffeebrains/deploys)
 
 # Description
 
