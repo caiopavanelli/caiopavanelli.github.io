@@ -163,7 +163,7 @@ commento = false
   copyrightLinkText = ""
 
 # possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
-[[linkedin]]
+[[share]]
   name = "linkedin"
 [[share]]
   name = "twitter"
