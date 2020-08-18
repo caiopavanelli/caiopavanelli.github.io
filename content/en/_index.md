@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Pavanelli's blog
+      - Coffee brains
     subtitle:
-      - Thought sharing and technology
+      - Turning coffee into thoughts and technology
     titleColor: 
     titleShadow: true
     titleFontSize: 44
