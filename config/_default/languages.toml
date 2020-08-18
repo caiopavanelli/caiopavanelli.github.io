@@ -1,12 +1,12 @@
 [en]
-  title = "Pavanelli's Blog"
+  title = "Caio Pavanelli"
   languageName = "English"
   weight = 1
   languagedir = "ltr"
   contentdir = "content/en"
 
 [br]
-  title = "Blog do Pavanelli"
+  title = "Caio Pavanelli"
   languageName = "Português"
   languagedir = "ltr"
   contentdir = "content/br"
