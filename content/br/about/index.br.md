@@ -1,27 +1,24 @@
 +++
 title = "Sobre"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "Caio Pavanelli, programador"
 type = "about"
 date = "2020-08-18"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+### Quem é o Caio?
 
-Hugo makes use of a variety of open source projects including:
+Olá, sou o Caio Pavanelli e você está no meu blog. Uso esse espaço para compartilhar ideias, opiniões e tutoriais sobre livros e cursos que participo. Alguns pontos de destaque atualmente sobre mim:
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+- Gosto de explorar novas tecnologias e desenvolver programas para solucionar os mais diversos tipos de problemas.
+- Tenho um [mestrado](https://repositorio.fei.edu.br/bitstream/FEI/279/1/fulltext.pdf) em Engenharia Elétrica pelo [Centro Universitário da FEI](https://portal.fei.edu.br/) em [robótica cognitiva](https://en.wikipedia.org/wiki/Cognitive_robotics).
+- Tenho trabalhado na criação de plataformas de dados, atacando o paradigma atual de separação de armazenamento e processamento de dados. Esse trabalho me aproximou das comunidades Presto e Alluxio.
+- Busco aprender mais sobre arquitetura de cloud, design de sistemas e inteligência artificial.
+- Nos tempos livres tenho interesse em fotografia, música e escrever.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+### Sobre este site
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Esse site foi desenvolvido utilizando **Hugo**, e o tema **Zzo**. Sua publicação está sendo feita através da **Netlify**. Mais informações podem ser encontradas nos links abaixo:
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/caiopavanelli).
-
-
-
+- [Hugo](https://gohugo.io)
+- [Zzo](https://themes.gohugo.io/hugo-theme-zzo/)
+- [Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
