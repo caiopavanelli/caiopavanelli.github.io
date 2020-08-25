@@ -165,6 +165,7 @@ commento = false
 # possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line"]
 [[share]]
   name = "linkedin"
+  username = "caio-pavanelli"
 [[share]]
   name = "twitter"
-  username = "caiopavanelli"
+  username = "caiopava"
