@@ -212,6 +212,12 @@ AWS VPN let's you establish a secure and private tunnel from your network or dev
 - **AWS site-to-site VPN**: securely connect on-premises network on branch office site to VPC.
 - **AWS client VPN**: securely connect users to AWS on on-premises networks.
 
+## AWS Organizations and Accounts
+
+**Organizations** allows you to centrally manage billing, control access, compliance, security, and share resources across your AWS accounts. Every organization has one **root account user** which is a single sign-in identity that has complete access to all AWS services and resources in an account. Each account has a parent root account user. A group of AWS accounts within an organization can be isolated in an **organization unit**. Organization units can also contain other units creating a hierarchy.
+
+**Service Control Policies** give central control over the allowed permissions for all accounts in your organization, helping to ensure your accounts stay within your organization's guidelines.
+
 <!-- ☁️ Security
 ⌨️ (3:13:49) Shared Responsibility Model
 ⌨️ (3:15:34) AWS Compliance programs
